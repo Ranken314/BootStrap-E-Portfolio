@@ -1,16 +1,16 @@
 {
   "name": "bootstrap-e-portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-   	"deploy": "gh-page -d dist"
+    "deploy": "gh-page -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-   "homepage": "https://github.com/Ranken314/BootStrap-E-Portfolio",
+  "homepage": "https://github.com/Ranken314/BootStrap-E-Portfolio",
   "dependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "description": ""
 }
