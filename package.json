@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-   "homepage": "https://github.com/Ranken314/BootStrap-E-Portfolio.git",
+   "homepage": "https://github.com/Ranken314/BootStrap-E-Portfolio",
   "dependencies": {
     "gh-pages": "^5.0.0"
   }
